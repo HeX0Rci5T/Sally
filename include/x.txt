@@ -1,0 +1,4 @@
+map Chop at sections & phdr
+
+map&seg make interface - no mm_raw
+mm_alloc - just mm_raw
